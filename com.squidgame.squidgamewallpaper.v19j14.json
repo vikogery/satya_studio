@@ -6,7 +6,7 @@
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -59,11 +59,11 @@
 "BUTTON_SHARE" : "SHARE TO FRIENDs",
 "BUTTON_START" : "START",
 
-"EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating, so we keep the spirit of providing the latest updates.",
+"EXIT_POPUP_DIALOG" : "Help us by giving a 5 star rating so we keep the spirit of providing the latest updates",
 "RATE_BUTTON" : "RATE & REVIEW",
 "LATER_BUTTON" : "HOME",
 "ENABLE_SHARE_BUTTON" : false,
-"SHARE_TXT" : "Superb App, Download Now",
+"SHARE_TXT" : "Superb App Download Now",
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.zerocorp.boyboyboi.wallpaper",
 
