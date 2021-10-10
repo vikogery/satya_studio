@@ -1,1 +1,1 @@
-# satya_studio
+# squidgame wallpaper
