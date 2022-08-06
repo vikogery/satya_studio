@@ -16,15 +16,15 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
 
-"INTERS_COUNT_WEB" : 3,
+"INTERS_COUNT_WEB" : 1,
 
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
+"ENABLE_STRAP_SPLAHSCREEN" : true,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
 "STARAPPID" : "209794489",
 
@@ -33,7 +33,7 @@
 
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4399569",
+"UNITY_GAME_ID" : "4399xx569",
 "UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "27c2fc84b69dd603",
@@ -67,7 +67,7 @@
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.zerocorp.boyboyboi.wallpaper",
 
-"REDIRECT_TRAFFIC" : true,
+"REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.zerocorp.bmwwallpaper"
 
 
